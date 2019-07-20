@@ -36,7 +36,7 @@
                  		</div>
                  		
                  		<div class="col-md-9 form-feild" style="padding:10px;margin-left:50px;">
-                 			<input type="submit" Value="Send password rest email" class="form-control btn-primary">
+                 			<input type="submit" Value="Send password on email to reset" class="form-control btn-primary">
                  		</div>
 				</form>
 			  </div>
