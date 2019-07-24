@@ -94,7 +94,7 @@
 							<span id="message"></span>
 						</div>
 					
-						<input type="submit" name="" class="btn" value="Log In to my app">
+						<input type="submit" name="" class="btn" value="Log In">
 				</form>
 			  </div>
 			  <div class="card-footer">
