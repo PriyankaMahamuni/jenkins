@@ -48,7 +48,7 @@
                  		</div>
                  		<div class="col-md-12" style="padding:10px"></div>
                  		<div class="col-md-4 form-feild">
-                 		<input type="submit" value="Submit" class="form-control btn-primary">
+                 		<input type="submit" value="send" class="form-control btn-primary">
                  		</div>
 				</form>
 			  </div>
